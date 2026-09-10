@@ -4,7 +4,7 @@
 <h4>永远相信美好的事情即将发生。</h4>
 
 
-**VibeCoding | C++竞赛 | ...**
+**VibeCoding | C++竞赛 | 高一牲 | ...**
 
 [![GitHub](https://img.shields.io/badge/GitHub-EdgeHH-181717?style=flat-square&logo=github)](https://github.com/Edge-HH)
 
@@ -14,9 +14,8 @@
 
 ## 🚀 关于我
 
-将相信变为现实，喜欢做些有趣的小东西
+将想象变为现实，喜欢做些有趣的小东西
 
----
 
 ## 💡 项目展示
 
@@ -38,7 +37,7 @@
 </td>
 <td width="50%">
 
-### 🕓Pancake
+### 🕓 Pancake
 > 面向教室大屏与触控设备的 Windows 班级作业看板
 
 `C#`
@@ -54,30 +53,30 @@
 <tr>
 <td>
 
-### 💬 ClassIsland-MiMoTTS
-> ClassIsland 小米 MiMo TTS 语音插件
+### 📦 ClipPort
+> 面向摄影、视频与大批量文件场景的 Windows 拷卡、完整性校验和任务管理工具。
 
-`C#` `ClassIsland` `TTS`
+`C#` `Windows` `fnOS`
 
-- 支持 mimo-v2-tts / v2.5-tts / v2.5-tts-voiceclone
-- 音色克隆：本地音频样本克隆音色
-- 自然语言控制 + 唱歌模式
+- 可选校验算法:SHA-256、SHA-512、SHA-1、MD5 和 xxHash64
+- fnOS(制作中）
+- Windows右键菜单快速开启
+- 现代化外观
 
-[![](https://img.shields.io/github/stars/lladlam/ClassIsland-MiMoTTS?style=social)](https://github.com/lladlam/ClassIsland-MiMoTTS)
+[![](https://img.shields.io/github/stars/Edge-HH/ClipPort?style=social)](https://github.com/Edge-HH/ClipPort)
 
 </td>
 <td>
 
-### 🪟 ClassIsland-Theme-LFG
-> 受 Apple Liquid Glass 启发的 ClassIsland 玻璃主题
+### 🪟 TED Quick Translator
+> 为TED提供双语字幕，演讲稿和AI能力
 
-`XAML` `ClassIsland` `Design`
+`JavaScript` `Chrome插件`
 
-- Apple Liquid Glass 设计语言
-- 玻璃质感半透明效果
-- 即装即用，复制到主题目录
+- 文章总结，近义词联想，词义追问
+- 演讲稿支持“仅译文”和“原文 + 译文”两种模式。
 
-[![](https://img.shields.io/github/stars/lladlam/ClassIsland-Theme-LFG?style=social)](https://github.com/lladlam/ClassIsland-Theme-LFG)
+[![](https://img.shields.io/github/stars/Edge-HH/TED-Quick-Translator?style=social)](https://github.com/Edge-HH/TED-Quick-Translator)
 
 </td>
 </tr>
@@ -85,52 +84,10 @@
 
 ---
 
-## 🛠️ 技术栈
-
 <div align="center">
 
-| 平台 | 技术 |
-|:---:|:---|
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square) |
-| **嵌入式** | ![NuttX](https://img.shields.io/badge/NuttX-orange?style=flat-square) ![LVGL](https://img.shields.io/badge/LVGL-38B9FF?style=flat-square) ![RISC-V](https://img.shields.io/badge/RISC--V-A21529?style=flat-square&logo=riscv&logoColor=white) |
-| **Desktop** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white) |
-| **Web/Tools** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+**当有一天你不再纠结于答案 当我们又重逢于天涯或沧海**
 
-</div>
-
----
-
-## 📊 GitHub 统计
-
-<div align="center">
-
-![Repos](https://img.shields.io/badge/Repos-37-586069?style=flat-square&logo=github)
-![Followers](https://img.shields.io/badge/Followers-10-586069?style=flat-square&logo=github)
-![Stars](https://img.shields.io/badge/Stars-300+-f9d71c?style=flat-square&logo=github)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lladlam&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🔍 其他项目
-
-| 项目 | 说明 |
-|:---|:---|
-| [GetWebDeepseek](https://github.com/lladlam/GetWebDeepseek) | DeepSeek Web 端对话转 OpenAI 兼容 API |
-| [LlaShell](https://github.com/lladlam/LlaShell) | 开源 Windows Shell 替换（C++20 / 多进程架构） |
-| [BandPet](https://github.com/lladlam/BandPet) | 小米手环宠物养成应用（500+ 用户） |
-| [BandEnglish](https://github.com/lladlam/BandEnglish) | 小米手环英语学习应用（艾宾浩斯算法） |
-| [OpenBandPet](https://github.com/lladlam/OpenBandPet) | BandPet 早期版本（已废弃） |
-| [2026OpenVela](https://github.com/lladlam/2026OpenVela) | D13x 移植工作区索引 |
-
----
-
-<div align="center">
-
-**感谢你花时间浏览我的主页！**
-
-![Profile Views](https://komarev.com/ghpvc/?username=lladlam&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Edge-HH&color=blueviolet&style=flat-square)
 
 </div>
