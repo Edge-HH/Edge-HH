@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi, I'm EdgeHH 👋</h1>
-<h4>永远相信美好的事情即将发生。</h4>
+<h4>Through hardship to the stars.</h4>
 
 
 **VibeCoding | C++竞赛 | 高一牲 | ...**
@@ -12,8 +12,7 @@
 
 ---
 
-
-将想象变为现实，喜欢做些有趣的小东西
+喜欢做些小东西
 
 
 ## 💡 项目展示
