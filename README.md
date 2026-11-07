@@ -15,13 +15,7 @@
 喜欢做些小东西
 
 
-## 💡 项目展示
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏫 RemoteCI
+### RemoteCI
 > 由手表端，插件端，服务端组成的ClassIsland课表查看与控制系统
 
 `C#` `Kotlin`
@@ -35,7 +29,7 @@
 </td>
 <td width="50%">
 
-### 🕓 Pancake
+### Pancake
 > 面向教室大屏与触控设备的 Windows 班级作业看板
 
 `C#`
@@ -51,7 +45,7 @@
 <tr>
 <td>
 
-### 📦 ClipPort
+### ClipPort
 > 面向摄影、视频与大批量文件场景的 Windows 拷卡、完整性校验和任务管理工具。
 
 `C#` `Windows` `fnOS`
@@ -66,7 +60,7 @@
 </td>
 <td>
 
-### 🪟 TED Quick Translator
+### TED Quick Translator
 > 为TED提供双语字幕，演讲稿和AI能力
 
 `JavaScript` `Chrome插件`
