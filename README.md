@@ -45,28 +45,7 @@
 <tr>
 <td>
 
-### ClipPort
-> 面向摄影、视频与大批量文件场景的 Windows 拷卡、完整性校验和任务管理工具。
 
-`C#` `Windows` `fnOS`
-
-- 可选校验算法:SHA-256、SHA-512、SHA-1、MD5 和 xxHash64
-- fnOS(制作中）
-- Windows右键菜单快速开启
-- 现代化外观
-
-[![](https://img.shields.io/github/stars/Edge-HH/ClipPort?style=social)](https://github.com/Edge-HH/ClipPort)
-
-</td>
-<td>
-
-### TED Quick Translator
-> 为TED提供双语字幕，演讲稿和AI能力
-
-`JavaScript` `Chrome插件`
-
-- 文章总结，近义词联想，词义追问
-- 演讲稿支持“仅译文”和“原文 + 译文”两种模式。
 
 [![](https://img.shields.io/github/stars/Edge-HH/TED-Quick-Translator?style=social)](https://github.com/Edge-HH/TED-Quick-Translator)
 
