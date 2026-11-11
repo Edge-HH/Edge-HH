@@ -1,4 +1,3 @@
-<div align="center">
 
 <h1>Hi, I'm EdgeHH 👋</h1>
 <h4>Through hardship to the stars.</h4>
@@ -8,9 +7,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-EdgeHH-181717?style=flat-square&logo=github)](https://github.com/Edge-HH)
 
-</div>
 
----
 
 喜欢做些小东西
 
@@ -46,14 +43,8 @@
 <td>
 
 
-
-[![](https://img.shields.io/github/stars/Edge-HH/TED-Quick-Translator?style=social)](https://github.com/Edge-HH/TED-Quick-Translator)
-
-</td>
-</tr>
 </table>
 
----
 [![Edge-HH's GitHubCard](https://githubcard.com/Edge-HH.svg?d=1rjBVTC5lX41)](https://githubcard.com/Edge-HH/card?utm_source=github&utm_medium=readme)
 <div align="center">
 
