@@ -1,41 +1,36 @@
 
 <h1>Hi, I'm EdgeHH 👋</h1>
-<h4>Through hardship to the stars.</h4>
+<h4>做些小东西</h4>
 
 
 **VibeCoding | C++竞赛 | 高一牲 | ...**
 
 [![GitHub](https://img.shields.io/badge/GitHub-EdgeHH-181717?style=flat-square&logo=github)](https://github.com/Edge-HH)
 
-
-
-喜欢做些小东西
-
-
 ### RemoteCI
-> 由手表端，插件端，服务端组成的ClassIsland课表查看与控制系统
+> ClassIsland集控与轻课务
 
 `C#` `Kotlin`
 
-- 把 ClassIsland 的课表、通知和受控操作，延伸到 Web 与 Wear OS。
-- 课程状态同步：插件推送当前课程状态，并同步未来七日课表。
-- Web 与手表联动：在 WebUI 和 Wear OS 上查看课表、课堂事件与连接状态。
+- 远程查看与修改课表
+- 远程更新ClassIsland或插件，远程安装插件，更改ClassIsland设置
+- Astrbot联动查询与控制课表
 
 [![](https://img.shields.io/github/stars/Edge-HH/RemoteCI?style=social)](https://github.com/Edge-HH/RemoteCI)
 
 </td>
 <td width="50%">
 
-### Pancake
-> 面向教室大屏与触控设备的 Windows 班级作业看板
+### WorkTiles
+> 面向教室大屏的班级作业看板
 
 `C#`
 
-- 实时显示时钟、日期、天气、噪音水平与今日作业。
-- 无限作业板支持滚动、平移和缩放，靠近画布边缘时继续扩展。
-- 磁贴主题：每个科目可独立更换主题色。
+- 显示时钟、日期、天气、噪音与作业。
+- 无限作业板支持
+- 磁贴
 
-[![](https://img.shields.io/github/stars/Edge-HH/Pancake?style=social)](https://github.com/Edge-HH/Pancake)
+[![](https://img.shields.io/github/stars/Edge-HH/Pancake?style=social)](https://github.com/Edge-HH/WorkTiles)
 
 </td>
 </tr>
@@ -45,10 +40,7 @@
 
 </table>
 
-[![Edge-HH's GitHubCard](https://githubcard.com/Edge-HH.svg?d=1rjBVTC5lX41)](https://githubcard.com/Edge-HH/card?utm_source=github&utm_medium=readme)
 <div align="center">
-
-**当有一天你不再纠结于答案 当我们又重逢于天涯或沧海**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Edge-HH&color=blueviolet&style=flat-square)
 
